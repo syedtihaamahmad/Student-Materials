@@ -1,6 +1,18 @@
 # Exercise Construction and Testing
 ## CS4320/7320 Software Engineering
 
+
+
+
+
+
+I wrote 10 tests in 'my_tests.py' 6 of them failed and 4 passed. 
+
+
+
+
+
+
 [Setup your python virtual environment first.](./venv.md)
 
 For this assignment you will be tasked with testing the grading system. This system was designed to be a simple version 
