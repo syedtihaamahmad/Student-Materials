@@ -25,4 +25,3 @@ class Professor(Staff.Staff):
         del self.users[name]['courses'][course]
         self.update_user_db()
 
-

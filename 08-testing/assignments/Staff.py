@@ -26,6 +26,3 @@ class Staff(User.User):
         for key in assignments:
             grades.append([key, assignments[key]['grade']])
         return grades
-
-
-
